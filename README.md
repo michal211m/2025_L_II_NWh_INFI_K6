@@ -54,7 +54,15 @@ o Continuous Integration, Continuous Delivery i Continuous Deployment.
 - Integracja z TravisCI:
 
   ```
-  # miejsce na twoje notatki
+  # TravisCI umożliwia automatyczne budowanie, testowanie i wdrażanie oprogramowania
+  # za każdmy razem, gdy do repozytorium wprowadzane są zmiany
+  ```
+
+- Markdown (MD):
+
+  ```
+  # markdown to prosty język znaczników, który służy do formatowania tekstu
+  # pliki w języku markdown mają rozszerzenie .md
   ```
 
 # Pomocnicze
