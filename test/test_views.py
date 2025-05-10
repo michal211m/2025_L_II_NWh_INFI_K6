@@ -16,4 +16,4 @@ class FlaskrTestCase(unittest.TestCase):
 
     def test_msg_with_output(self):
         rv = self.app.get('/?output=json')
-        self.assertEqual('{ "imie":"Michał", "msg":Hello World!"}'.encode('utf-8'), rv.data)
+        self.assertEqual('u{ "imie":"Michał", "msg":Hello World!"}'.encode('utf-8'), rv.data)
