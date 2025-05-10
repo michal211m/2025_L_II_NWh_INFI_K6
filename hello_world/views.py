@@ -3,6 +3,8 @@ from hello_world.formater import get_formatted
 from hello_world.formater import SUPPORTED, PLAIN
 from flask import request
 
+# -*- coding: utf-8 -*-
+
 moje_imie = "Michał"
 msg = "Hello World!"
 
